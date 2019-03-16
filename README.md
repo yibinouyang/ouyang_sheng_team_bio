@@ -1,1 +1,2 @@
-# ouyang_sheng_team_bio
+This is the Team Bio project.
+This web page is a simple member information interface. In this interface you can learn about each of us about the division of work and some personal information. And I wrote all the content in Html and css on this page, and then clicked the tapping function through JavaScript. On the homepage I put a photo of each group member and an introduction to their work. Then on each person's personal information interface I put information about them and plans for this assignment.
